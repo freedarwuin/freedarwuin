@@ -22,11 +22,8 @@ El repositorio privado es solo para propósitos de desarrollo, cualquier actuali
 
 ## Pasarelas de Pago
 
-- [Tripay.com](https://github.com/freedarwuin/NetBillX-tripay) | Indonesia
-- [Xendit.com](https://github.com/freedarwuin/NetBillX-xendit) | Indonesia y Filipinas
-- [Duitku.com](https://github.com/freedarwuin/NetBillX-duitku) | Indonesia
+- [https://www.bancodevenezuela.com/](https://github.com/freedarwuin/NetBillX-bdv) | Venezuela
 - [PayPal.com](https://github.com/freedarwuin/NetBillX-paypal) | Países soportados por PayPal
-- [bkash.com](https://github.com/freedarwuin/NetBillX-bkash) | Bangladesh
 - [Otros](https://github.com/orgs/freedarwuin/repositories?q=payment+gateway)
 
 ## Plugins
