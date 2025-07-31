@@ -1,8 +1,8 @@
-[![Patrocinador en GitHub](https://img.shields.io/github/sponsors/ibnux?label=Patrocinador&logo=GitHub)](https://github.com/sponsors/ibnux)
+[![Patrocinador en GitHub](https://img.shields.io/github/sponsors/freedarwuin?label=Patrocinador&logo=GitHub)](https://github.com/sponsors/freedarwuin)
 
 # Hotspot Billing 👋
 
-Hola, mi nombre es [ibnux](https://github.com/freedarwuin)
+Hola, mi nombre es [freedarwuin](https://github.com/freedarwuin)
 
 Esta organización existe para gestionar el proyecto NetBillX y todos sus plugins.
 
@@ -10,7 +10,7 @@ Esta organización existe para gestionar el proyecto NetBillX y todos sus plugin
 
 - [Repositorio Público de NetBillX](https://github.com/freedarwuin/NetBillX)
 - ~~[Repositorio Privado de NetBillX para Patrocinadores](https://github.com/freedarwuin/NetBillX-private)~~    
-   ~~El repositorio privado recibe las últimas actualizaciones y puedes solicitar cualquier función directamente a [ibnux](https://github.com/freedarwuin)~~
+   ~~El repositorio privado recibe las últimas actualizaciones y puedes solicitar cualquier función directamente a [freedarwuin](https://github.com/freedarwuin)~~
 
 El repositorio privado es solo para propósitos de desarrollo, cualquier actualización no terminada estará ahí. Las solicitudes de nuevas funciones tendrán un costo según los días de trabajo.
 
@@ -51,15 +51,15 @@ El repositorio privado es solo para propósitos de desarrollo, cualquier actuali
 
 ## ¿Necesitas Soporte Técnico Pagado?
 
-[Telegram](https://t.me/ibnux)   
+[Telegram](https://t.me/freedarwuin)   
 Cualquier chat técnico directamente conmigo, cuesta $50.
 
 ## Sé patrocinador de este proyecto
 
-- [Patrocinador en GitHub](https://github.com/sponsors/ibnux)
+- [Patrocinador en GitHub](https://github.com/sponsors/freedarwuin)
 
 ## Patrocinadores
 
 - [mlink.id](https://mlink.id)
-- [Mixradius](https://mixradius.com/?utm_source=freedarwuin-ibnux)
+- [Mixradius](https://mixradius.com/?utm_source=freedarwuin-freedarwuin)
 - [@sonyinside](https://github.com/sonyinside)
