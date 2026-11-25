@@ -2,58 +2,46 @@
 
 # Hotspot Billing 👋
 
-Hola, mi nombre es [freedarwuin](https://github.com/freedarwuin)
+Hola, mi nombre es [freedarwuin](https://github.com/freedarwuin).
 
-Esta organización existe para gestionar el proyecto NetBillX y todos sus plugins.
+Aquí encontrarás información y recursos relacionados con **NetBillX** y sus integraciones.
 
 ## NetBillX
 
-- [Repositorio Público de NetBillX](https://github.com/freedarwuin/NetBillX)
-- ~~[Repositorio Privado de NetBillX para Patrocinadores](https://github.com/freedarwuin/NetBillX-private)~~    
-   ~~El repositorio privado recibe las últimas actualizaciones y puedes solicitar cualquier función directamente a [freedarwuin](https://github.com/freedarwuin)~~
+NetBillX es un sistema de facturación en PHP con gestión de cupones para MikroTik Hotspot.
 
-El repositorio privado es solo para propósitos de desarrollo, cualquier actualización no terminada estará ahí. Las solicitudes de nuevas funciones tendrán un costo según los días de trabajo.
+- [Repositorio principal de NetBillX](https://github.com/freedarwuin/NetBillX) *(actualmente privado; requiere acceso autorizado)*
+- [Plantilla de inicio de sesión para MikroTik](https://github.com/freedarwuin/NetBillX-mikrotik-login-template)
 
-> Si te gusta este software, solo haz una donación y seguiré dándole mantenimiento.
+### Pasarelas de pago
 
-## Plantilla de Login
+- [Banco de Venezuela](https://github.com/freedarwuin/NetBillX-bdv) — Venezuela
+- [PayPal](https://github.com/freedarwuin/NetBillX-paypal)
+- [Binance Pay](https://github.com/freedarwuin/NetBillX-Binance-Pay)
+- [Más repositorios de pasarelas](https://github.com/orgs/freedarwuin/repositories?q=payment+gateway)
 
-- [Plantilla Oficial de Login Mikrotik](https://github.com/freedarwuin/NetBillX-mikrotik-login-template)
+### Plugins e integraciones
 
-## Pasarelas de Pago
+- [Importador de MikroTik](https://github.com/freedarwuin/NetBillX-plugin-mikrotik-import)
+- [Administrador de activos](https://github.com/freedarwuin/NetBillX-Assets-Manager)
+- [Plugin de notificaciones por WhatsApp](https://github.com/freedarwuin/Alternative-WhatsApp-Gateway-Plugin-for-NetBillX) — requiere el servidor [go-whatsapp-web-multidevice](https://github.com/freedarwuin/go-whatsapp-web-multidevice)
+- [Página de suspensión con procesamiento de pagos](https://github.com/freedarwuin/NetBillX-suspension-page-plugin)
+- [Backup y restauración de base de datos](https://github.com/freedarwuin/NetBillX-database-backup-and-restore-plugin)
+- [Más plugins](https://github.com/orgs/freedarwuin/repositories?q=plugin)
 
-- [https://www.bancodevenezuela.com/](https://github.com/freedarwuin/NetBillX-bdv) | Venezuela
-- [PayPal.com](https://github.com/freedarwuin/NetBillX-paypal) | Países soportados por PayPal
-- [Otros](https://github.com/orgs/freedarwuin/repositories?q=payment+gateway)
+## ¿Necesitas ayuda?
 
-## Plugins
+- [Soporte en Telegram](https://t.me/NetBillX) — ayuda con la instalación de NetBillX.
+- [Discusiones de NetBillX](https://github.com/freedarwuin/NetBillX/discussions)
+- [Discusiones de la comunidad](https://github.com/freedarwuin/.github/discussions) — soporte gratuito e ideas para plugins y pasarelas.
 
-- [Importador Mikrotik](https://github.com/freedarwuin/NetBillX-plugin-mikrotik-import)
-- [Otros](https://github.com/orgs/freedarwuin/repositories?q=plugin)
+## Soporte técnico pagado
 
-## Pasarela gratuita de Whatsapp y SMS
- [https://wa.nux.my.id/login](https://wa.nux.my.id/login)  
- usando tu propio teléfono
+[Contactar por Telegram](https://t.me/freedarwuin) — consultas técnicas directamente conmigo: $50.
 
-## ¿Necesitas Ayuda? 
+## Patrocina el proyecto
 
-- [Soporte en Telegram](https://t.me/NetBillX)   
-  Para cualquier problema con la instalación de NetBillX.
-
-- [Soporte NetBillX](https://github.com/freedarwuin/NetBillX/discussions)   
-  Para cualquier problema con la instalación de NetBillX.
-
-- [Pedir ayuda](https://github.com/freedarwuin/.github/discussions)   
-  Soporte gratuito y espacio para discutir ideas de plugins y pasarelas de pago.
-
-## ¿Necesitas Soporte Técnico Pagado?
-
-[Telegram](https://t.me/freedarwuin)   
-Cualquier chat técnico directamente conmigo, cuesta $50.
-
-## Sé patrocinador de este proyecto
-
-- [Patrocinador en GitHub](https://github.com/sponsors/freedarwuin)
+- [Patrocinar en GitHub](https://github.com/sponsors/freedarwuin)
 
 ## Patrocinadores
 
